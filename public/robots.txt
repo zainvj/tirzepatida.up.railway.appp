@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tirzepatida.up.railway.app/sitemap.xml
